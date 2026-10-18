@@ -1,0 +1,23 @@
+AI TECH SOLUTIONS - LEAVE POLICY (Version 3.1)
+(Fictional policy, created only for testing this project.)
+
+1. Casual Leave
+Every employee gets 8 casual leaves per calendar year. Casual leave is meant for short personal needs. A maximum of 3 casual leaves can be taken at a stretch. Unused casual leaves cannot be carried forward to the next year.
+
+2. Sick Leave
+Every employee gets 10 sick leaves per calendar year. If sick leave is taken for more than 2 continuous days, a medical certificate from a registered doctor must be submitted to HR within 3 days of returning to work.
+
+3. Earned (Privilege) Leave
+Employees earn 1.5 days of earned leave for every completed month of service, which is 18 days per year. Up to 30 earned leaves can be carried forward. Earned leave must be applied for at least 7 days in advance for leave longer than 3 days. Unused earned leave above the carry-forward limit is encashed at the end of the financial year.
+
+4. Maternity and Paternity Leave
+Female employees are eligible for 26 weeks of paid maternity leave as per the Maternity Benefit Act. Male employees are eligible for 10 working days of paid paternity leave, which must be taken within 3 months of the child's birth.
+
+5. Public Holidays
+The company declares 12 public holidays every year. The list is published by HR in January. Employees may also choose 2 optional holidays from a list of 6 festival days.
+
+6. How to Apply for Leave
+Leave must be applied through the HR portal (called "AI People"). The reporting manager approves or rejects the request within 2 working days. In an emergency, inform your manager by phone or message and apply on the portal when you return.
+
+7. Leave Without Pay
+If all leave balance is exhausted, further leave is treated as Leave Without Pay (LWP) and the salary is deducted proportionately.

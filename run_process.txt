@@ -1,0 +1,5 @@
+ Both commands should run from PROJECT_ROOT
+ 
+ python3 -m test_mcp            ==> To test application
+ 
+ uvicorn app.main:app --reload  ==> to run application

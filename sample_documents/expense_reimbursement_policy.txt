@@ -1,0 +1,26 @@
+AI TECH SOLUTIONS - TRAVEL AND EXPENSE REIMBURSEMENT POLICY
+(Fictional policy, created only for testing this project.)
+
+1. Purpose
+This policy explains which business expenses are reimbursed and how to claim them.
+
+2. Travel
+Domestic flights are booked in economy class through the company travel desk at least 7 days before travel. For train travel, employees up to manager level travel in 3AC and senior managers in 2AC. Local travel by cab or auto for client visits is reimbursed on submission of the bill.
+
+3. Hotel Stay
+Hotel stays are reimbursed up to Rs. 4,500 per night in metro cities (Mumbai, Delhi, Bengaluru, Pune, Hyderabad, Chennai) and up to Rs. 3,000 per night in other cities. Stays above the limit need prior approval from the department head.
+
+4. Meals During Travel
+A daily meal allowance of Rs. 800 is paid for domestic travel. Alcohol is never reimbursed.
+
+5. Client Entertainment
+Client meals and entertainment are reimbursed only with prior written approval from your manager, up to Rs. 2,500 per person.
+
+6. Learning and Certification
+The company reimburses 100 percent of the exam fee for approved technical certifications such as cloud and data certifications, provided the employee passes. If the employee fails, a second attempt is reimbursed at 50 percent. Employees who leave within 12 months of claiming a certification reimbursement must refund the amount.
+
+7. How to Claim
+Submit the claim in the AI People portal within 30 days of the expense, with scanned original bills. Claims submitted after 30 days are rejected. Approved claims are paid with the next month's salary. Advance requests for travel can be raised at least 5 days before the trip.
+
+8. Non-Reimbursable Items
+Personal shopping, fines and penalties, minibar charges, and laundry for trips shorter than 5 days are not reimbursed.
